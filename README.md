@@ -8,7 +8,8 @@ Follow me on [Twitter](https://twitter.com/Logical__Block) for more
 
 To make use of the NFT smart contract, simply copy the SimpleNft_flat.sol file in the contract folder and deploy it on remix after changing the parameters.
 
-Disclaimer
+## Disclaimer
+
 These contracts have been used to create tutorials,
 and was created for the purpose to teach people
 how to create smart contracts on the blockchain.
@@ -20,4 +21,4 @@ of the code. That being said, the code has been tested
 to the best of the developers' knowledge to work as intended.
 
 
-Just make the relevant changes where ever you see the comments in Green
+Just make the relevant changes where ever you see the comments in _**Green**_
